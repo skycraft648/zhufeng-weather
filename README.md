@@ -59,9 +59,7 @@ zhufeng-weather/
 
 ## 运行截图
 
-```markdown
 ![运行界面](screenshots/屏幕截图 2026-11-20 192909.png)
-```
 
 ## 数据来源与限制
 
