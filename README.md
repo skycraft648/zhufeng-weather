@@ -59,10 +59,8 @@ zhufeng-weather/
 
 ## 运行截图
 
-建议在本地运行后拍摄截图，保存为 `screenshots/dashboard.png`，然后在此添加图片链接：
-
 ```markdown
-![运行界面](screenshots/dashboard.png)
+![运行界面](screenshots/屏幕截图 2026-11-20 192909.png)
 ```
 
 ## 数据来源与限制
