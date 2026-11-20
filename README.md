@@ -74,4 +74,4 @@ zhufeng-weather/
 
 ## 个人工作
 
-项目代码包含 Streamlit 页面组织、Open-Meteo 接口请求与数据解析、天气分析规则、ARIMA / K-Means 模块及 pytest 测试。公开简历时请按自己实际承担的内容描述个人职责。
+项目代码包含 Streamlit 页面组织、Open-Meteo 接口请求与数据解析、天气分析规则、ARIMA / K-Means 模块及 pytest 测试。
