@@ -59,7 +59,7 @@ zhufeng-weather/
 
 ## 运行截图
 
-![运行界面](screenshots/屏幕截图 2026-11-20 192909.png)
+![逐风天气运行界面](screenshots/fig_1.png)
 
 ## 数据来源与限制
 
